@@ -1,0 +1,32 @@
+{
+  "name": "keeper-part-3-completed",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@giphy/js-fetch-api": "^4.1.2",
+    "@giphy/js-types": "^4.1.0",
+    "@giphy/react-components": "^5.3.2-alpha.1",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-giphy-searchbox": "^1.5.4",
+    "react-resize-observer": "^1.1.1",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
